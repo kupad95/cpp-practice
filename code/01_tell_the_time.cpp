@@ -1,3 +1,6 @@
+### A simple program to practice defining classes and methods that takes in the hour, minute and second in 24-hour time, and calls on a method to display the output in 12-hour and 24-hour time
+
+
 # include<iostream>
 using namespace std;
 
