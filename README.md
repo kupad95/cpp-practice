@@ -9,3 +9,6 @@ A simple game to practice defining classes, constructors and simple control flow
 
 ## 3. Poker 5-card draw
 A more complex game to practice defining multiple classes, methods, constructors and managing a gamestate. Based on standard 5-card draw Poker rules.
+
+## 4. Cypher
+A program to practice string manipulation and working with key-value pairs by implementing a simple half-reversed alphabet cypher.
